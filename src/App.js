@@ -18,6 +18,7 @@ function App() {
           Learn React
         </a>
         <h1>irshad baig</h1>
+        <p>Zubair Khan</p>
       </header>
     </div>
   );
